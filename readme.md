@@ -1,2 +1,2 @@
 # bot-tester
-This is a repo to test Github bots and such
+This is a repository to test Github bots and such
